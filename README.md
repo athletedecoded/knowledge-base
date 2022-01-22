@@ -2,16 +2,20 @@ For me, knowledge is more than the consumption of information - it's about reach
 
 ![](assets/8.jpg)
 
-I love learning and exploring new topics, and in the process I've curated some fantastic resources. I continue to use these resources frequently and they have formed a significant part of my learning "curriculum".
+This repo serves as a Knowledge Base of awesome resources I've curated along my learning journey. 
 
-My content consumption is wide ranging -- I enjoy watching short YouTube explainers while I'm having my morning coffee..I listen to podcasts while I'm exercising..I love the rigour and depth delivered in MOOC courses..and as an active learner, I naturally gravitate to interactive and highly visual learning resources. 
+I enjoy watching short YouTube explainers while I'm having my morning coffee..I listen to podcasts while I'm exercising..I love the rigour and depth delivered in MOOC courses..and as an active learner, I naturally gravitate to interactive and highly visual content. 
+
+Hopefuly by sharing, it will empower your learning too :)
 
 <hr>
 
-* [Podcasts](./podcasts.md)
+* [Dev Tools](./dev.md)
+* [Python](./python.md)
 * [SQL](./sql.md)
-<!-- * [Maths](./maths.md)
-* [Git](./git.md) -->
+* [Maths & Data Science](./maths.md)
+* [Podcasts](./podcasts.md)
+
 
 <hr>
 
