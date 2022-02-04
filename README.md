@@ -2,11 +2,14 @@ For me, knowledge is more than the consumption of information - it's about reach
 
 ![](assets/8.jpg)
 
-This repo serves as a Knowledge Base of awesome resources I've curated along my learning journey. 
+This repo serves as a Knowledge Base of awesome resources I've curated along my learning journey. You'll notice it includes a bit of everything...
 
-I enjoy watching short YouTube explainers while I'm having my morning coffee..I listen to podcasts while I'm exercising..I love the rigour and depth delivered in MOOC courses..and as an active learner, I naturally gravitate to interactive and highly visual content. 
+... I enjoy watching short YouTube explainers while I'm having my morning coffee
+... I listen to podcasts while I'm exercising
+... I love the rigour and theory delivered by university material
+... I naturally gravitate to interactive and highly visual content 
 
-Hopefuly by sharing, it will empower your learning too :)
+Hopefuly by sharing, these resources will empower your learning and understanding too :)
 
 <hr>
 

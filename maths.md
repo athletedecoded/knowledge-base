@@ -3,6 +3,7 @@
 ## Probability and Statistics
 
 ### [Seeing Theory by Brown University](https://seeing-theory.brown.edu/) -- epic visuals!
+### [StatQuest](https://www.youtube.com/c/joshstarmer/playlists)
 
 <hr>
 
@@ -15,5 +16,6 @@
 
 ## ML/AI Maths
 
-### [Mathematics for Machine Learning](https://mml-book.github.io/) -- 100% FREE!
+### [Mathematics for Machine Learning](https://mml-book.github.io/) -- hard copy is worth the investment
+### [StatQuest](https://www.youtube.com/c/joshstarmer/playlists)
 

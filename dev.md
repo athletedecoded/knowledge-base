@@ -23,7 +23,3 @@
 ### [Streamlit](https://streamlit.io/)
 
 <hr>
-
-## Foundational CS
-
-### [Computer Science Distilled (Book)](https://code.energy/computer-science-distilled/)
