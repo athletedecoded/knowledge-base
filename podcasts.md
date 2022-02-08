@@ -8,6 +8,7 @@ I have a few go-to shows and they fall into two pretty distinct categories - per
 
 ### <a href="https://towardsdatascience.com/podcast/home" target="_blank">Towards Data Science (TDS) Podcast</a> ###
 Hands down my favourite AI podcast at the moment. I am really passionate about AI-driven social equality and acknowledge that AI technology has an increadbile power to address some of our most complex global challenges. However, without proper attention, AI also has the potential to amplify social barriers and biases. TDS has done a fantastic series exploring AI ethics, trust, and human-alignment. Every single episode has expanded my awareness on responsible AI. Here are a few of my faves, but seriously go listen to them all! 
+* <a href="https://open.spotify.com/episode/1vFHxRr8RLZHtONkQ79AkW" target="_blank">Gillian Hadfield - How to create explainable AI regulations that actually make sense</a>
 * <a href="https://open.spotify.com/episode/1VC34kpZOzG0glPmFubtKE" target="_blank">Margaret Mitchell - (Practical) AI Ethics</a>
 * <a href="https://open.spotify.com/episode/0vJNFD2AyMRvzwYhnwLJW4" target="_blank">Brian Christian - The Alignment Problem</a>
 * <a href="https://open.spotify.com/episode/3WW4S94XMTLGg3KgVP1Rw0" target="_blank">Evan Hubinger - The Inner Alignment Problem</a>

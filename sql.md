@@ -18,7 +18,7 @@ Presented in an 8 week challenge format, this set of tutorials is visual, intera
 <hr>
 
 ### <a href="https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg" target="_blank">Alex the Analyst</a> ###
-Alex has 3 good playlist series which cover <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW" target="_blank">beginner</a>, <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL" target="_blank">intermediate</a>, and <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU" target="_blank">advanced</a> SQL topics in nicely packaged 5-15 minute videos.
+Alex has 3 great playlist series which cover <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW" target="_blank">beginner</a>, <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL" target="_blank">intermediate</a>, and <a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU" target="_blank">advanced</a> SQL topics in nicely packaged 5-15 minute videos.
 
 <hr>
 
@@ -26,7 +26,7 @@ Alex has 3 good playlist series which cover <a href="https://www.youtube.com/pla
 * <a href="https://www.kaggle.com/learn/intro-to-sql" target="_blank">Kaggle's Intro SQL Course</a>
 * <a href="https://www.kaggle.com/learn/advanced-sql" target="_blank">Kaggle Advanced SQL Micro-Course</a>
 
-Kaggle has 2 great courses to take you from intro to advanced SQL topics. I particularly like that the content is delivered in Kaggle's browser based kernel/notebook and uses the BigQuery API for the dataset. I find that most SQL courses only give you familarity with Microsoft SQL Server or isolated SQL statements on an interactive webpage. Unlike most courses, the Kaggle tutorials provide exposure to real-world tools and processes for querying public datasets.
+Kaggle has 2 awesome courses to take you from intro to advanced SQL topics. I particularly like that the content is delivered in Kaggle's browser based kernel/notebook and uses the BigQuery API for the dataset. I find that most SQL courses only give you familarity with Microsoft SQL Server or isolated SQL statements on an interactive webpage. But, unlike most courses, the Kaggle tutorials provide exposure to real-world tools and processes for querying public datasets.
 
 <hr>
 

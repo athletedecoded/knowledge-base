@@ -6,14 +6,16 @@ This repo serves as a Knowledge Base of awesome resources I've curated along my 
 
 ... I enjoy watching short YouTube explainers while I'm having my morning coffee
 ... I listen to podcasts while I'm exercising
-... I love the rigour and theory delivered by university material
-... I naturally gravitate to interactive and highly visual content 
+... I love the rigour and theory delivered by university courses and MOOCs
+... I naturally gravitate to highly visual and interactive content 
 
 Hopefuly by sharing, these resources will empower your learning and understanding too :)
 
 <hr>
 
-* [Dev Tools](./dev.md)
+* [Computer Science](./cs.md)
+* [Software Engineering & Development](./dev.md)
+* [Machine Learning](./ml.md)
 * [Python](./python.md)
 * [SQL](./sql.md)
 * [Maths & Data Science](./maths.md)
