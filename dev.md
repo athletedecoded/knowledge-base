@@ -2,6 +2,7 @@
 
 * [ZTM Resource Guide](https://zerotomastery.io/resources/)
 * [WebGuide](https://webguide.space/theguide/)
+* [Developing on a Windows Machine](https://ljvmiranda921.github.io/notebook/2021/10/08/developing-on-windows/)
 
 ## Learn Git
 

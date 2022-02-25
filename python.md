@@ -8,6 +8,7 @@
 
 ## 💻 Read
 * [ZTM Python Monthly Newsletter](https://zerotomastery.io/blog/?tag=MLM#monthly)
+* [Python is Cool by Chip Huyen](https://github.com/chiphuyen/python-is-cool)
 
 <hr>
 
