@@ -30,6 +30,7 @@
 
 ## 🤓 Advanced Understanding & State of the Art (SOTA)
 * [Papers with Code](https://paperswithcode.com/)
+* [Applied MLOps Case Studies](https://github.com/eugeneyan/applied-ml#mlops-platforms)
 
 <hr>
 

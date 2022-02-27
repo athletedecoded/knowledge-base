@@ -31,5 +31,6 @@
 
 * [BaseTen](https://www.baseten.co/)
 * [Streamlit](https://streamlit.io/)
+* [Gradio](https://gradio.app/)
 
 <hr>
